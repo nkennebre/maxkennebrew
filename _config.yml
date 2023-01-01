@@ -4,7 +4,7 @@ title: Natosha (Maxine) Kennebrew | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://nkennebre.github.io/maxkennebrew/"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ""
+baseurl: "https://nkennebre.github.io/maxkennebrew/"
 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
