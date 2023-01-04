@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sudoku.png
+image: img/HelloKitty.jfif
 title: "Sudoku"
 date: 2022-04-15
 published: true
