@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/sudoku.png
 title: "Sudoku"
 date: 2022-04-15
 published: true
