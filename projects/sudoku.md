@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sudoku2.png
+image: maxkennebrew/img/sudoku2.png
 title: "Sudoku"
 date: 2022-04-15
 published: true
