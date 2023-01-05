@@ -11,6 +11,7 @@
     "profiles": [
       { "network": "github", "username": "nkennebre", "url": "http://github.com/nkennebre" },
       { "network": "linkedin", "username": "maxinekennebrew", "url": "http://linkedin.com/in/maxinekennebrew" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "ksurant", "url": "http://instagram.com/ksurant" }
     ]
   },
