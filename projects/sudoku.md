@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/sudoku2.png
 title: "Sudoku"
-date: 2022
+date: 2021
 published: true
 labels:
   - Python
