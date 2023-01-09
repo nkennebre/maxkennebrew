@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Natosha (Maxine) Kennebrew",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/101520941?s=400&u=308dc8a411004c66673b607a2cad7805049e460e&v=4",
+    "email": "nkennebre@ltu.edu",
+    "phone": "586-792-5902",
+    "website": "https://nkennebre.github.io/maxkennebrew",
+    "summary": "I am studying for a M.S. in Computer Science with a concentration in Intelligent Systems at Lawrence Technological University. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "48035", "city": "Clinton Township", "countryCode": "USA", "region": " Southeast Michigan" },
+    "profiles": [
+      { "network": "github", "username": "nkennebre", "url": "http://github.com/nkennebre" },
+      { "network": "linkedin", "username": "maxinekennebrew", "url": "http://linkedin.com/in/maxinekennebrew" },
+      { "network": "instagram", "username": "ksurant", "url": "http://instagram.com/ksurant" }
+    ]
+  },
+  "interests": [
+    { "name": "Neural Networks" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Data Mining" },
+    { "name": "Robotics" },
+    { "name": "3D Printing" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C++", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Ubuntu", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lawrence Technilogical University, Southfield, MI",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "M.S.",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
+      "courses": ["Computer Science I and II", "Data Structures", "Discrete Math", "Computer Architecture and Assembly Programming", "Intelligent Robots", "Machine Learning and Neural Networks", "Operating Systems", "Algorithm Design and Analysis", "Advanced Intelligent Web Development", "Artificial Intelligence", "Web Software Engineering", "Intro to Databases"
+      ]
+    },
+    {
+      "institution": "University of Detroit Mercy, Detroit, MI",
+      "area": "Economics (graduated Spring, 2001)",
+      "studyType": "B.A.",
+      "startDate": "1996-09-01",
+      "endDate": "2001-05-15"
+    }
+  ],
+  "work": [
+    {
+      "company": "Detroit Public Community Schools District",
+      "position": "Robotics Academy Teacher",
+      "startDate": "2018-08-01",
+      "endDate": "2022-06-27",
+      "summary": "Only teacher for Denby High School's Robotics Academy",
+      "highlights": [
+        "Designed, developed and implemented a comprehensive, four-year curriculum for Detroit Denby's career academy",
+        "Developed community partnerships with area business, such as FANUC, to offer certifications for graduates of the academy"
+      ]
+    },
+    {
+      "company": "Detroit Public Community Schools District",
+      "position": "Science Teacher",
+      "website": "https://youtu.be/usLYlc6TjN4",
+      "startDate": "2013-12-01",
+      "endDate": "2018-06-15",
+      "summary": "Taught a variety of sciences at Detroit Denby High School",
+      "highlights": [
+        "End of Year Project: Chemistry Cook-off",
+        "Student designed Hydroponic Garden"
+      ]
+    },
+        {
+      "company": "Daimler Chrysler",
+      "position": "Materials Supervisor, Systems Engineer, ",
+      "startDate": "2000-06-01",
+      "endDate": "2007-12-01",
+      "summary": "Completed a rotational program through several organizations within Daimler Chrysler",
+      "highlights": [
+        "Supervised material handlers at the world's second largest stampling plant",
+        "Worked as part of the Y2K Contingency Team to help prepare corporation and suppliers for Y2K",
+        "Technology support for Laser Guided Vehicle delivery system implemented at an Engine Plant"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Southest Michigan Tennis Association",
+      "position": "Board Member/Adult League Committee Chairperson",
+      "startDate": "2007-09-01",
+      "endDate": "Present",
+      "summary": "Serve on the volunteer board to help facilitate organized tennis play in Southeast Michigan"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
